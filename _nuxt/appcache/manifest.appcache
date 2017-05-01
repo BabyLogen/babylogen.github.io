@@ -1,17 +1,17 @@
 CACHE MANIFEST
-#ver:4/28/2017, 6:25:46 AM
+#ver:5/1/2017, 2:32:17 PM
 #plugin:4.7.0
 
 CACHE:
-/_nuxt/0.nuxt.bundle.9cac34b8aeb47ff751c1.js
-/_nuxt/1.nuxt.bundle.663fb4faba81db76c94d.js
-/_nuxt/2.nuxt.bundle.0081e4495f559d1f2e57.js
-/_nuxt/3.nuxt.bundle.7cacfe521884480ad24c.js
-/_nuxt/4.nuxt.bundle.fd322be1367165035e38.js
-/_nuxt/5.nuxt.bundle.5d4f34e6cd2bec07e6a4.js
-/_nuxt/nuxt.bundle.d3f8197bd613251bf3eb.js
-/_nuxt/vendor.bundle.81d952fe2059be5fe9e9.js
-/_nuxt/manifest.81d952fe2059be5fe9e9.js
+/_nuxt/0.nuxt.bundle.dde67cfd0bafc545774d.js
+/_nuxt/1.nuxt.bundle.bb24a2a45fae39f14847.js
+/_nuxt/2.nuxt.bundle.7add760567c0987068d2.js
+/_nuxt/3.nuxt.bundle.1290ab052b2ca8dc2864.js
+/_nuxt/4.nuxt.bundle.cbcceca7676a9c6e8788.js
+/_nuxt/5.nuxt.bundle.d50af4489f8512f748e4.js
+/_nuxt/nuxt.bundle.347b3312054ed567f064.js
+/_nuxt/vendor.bundle.6e7dd4f21ff7bd106b50.js
+/_nuxt/manifest.6e7dd4f21ff7bd106b50.js
 /_nuxt/
 
 NETWORK:
