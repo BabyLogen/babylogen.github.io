@@ -1,17 +1,17 @@
 {
   "publicPath": "/_nuxt/",
   "all": [
-    "manifest.e263c126eeeeb299a14e.js",
-    "0.nuxt.bundle.12ceebcab53efb974c7b.js",
-    "2.nuxt.bundle.2ff7f3df5a779be59674.js",
-    "3.nuxt.bundle.3a7a8b8e391f1b640d08.js",
-    "4.nuxt.bundle.3da8cd2fc71a879aa9e8.js",
+    "manifest.5dbc1d4490ef7f26f5a8.js",
+    "0.nuxt.bundle.d93d4c413464fe52fe1f.js",
+    "2.nuxt.bundle.e9f8c9197e546b89410a.js",
+    "3.nuxt.bundle.f71f9f5d4a1dc85d4926.js",
+    "4.nuxt.bundle.b5855faf13df1e1f7956.js",
     "5.nuxt.bundle.c518f830f6ae77695fe2.js",
-    "6.nuxt.bundle.a5f1f52c092b0a2cfa2b.js",
+    "6.nuxt.bundle.cc7fb8f31f3ae8e685fa.js",
     "7.nuxt.bundle.bcef4ff079e252424403.js",
     "vendor.bundle.be1bcc81648e46d5e900.js",
     "nuxt.bundle.5e6bc92fecd09c2c148a.js",
-    "1.nuxt.bundle.ef197d9ba70b9785e1d5.js",
+    "1.nuxt.bundle.cf2c3135a704801bb3fa.js",
     "icons/icon_16.9mgd2ZDMcQu.png",
     "icons/icon_120.9mgd2ZDMcQu.png",
     "icons/icon_144.9mgd2ZDMcQu.png",
@@ -23,19 +23,19 @@
     "index.html"
   ],
   "initial": [
-    "manifest.e263c126eeeeb299a14e.js",
+    "manifest.5dbc1d4490ef7f26f5a8.js",
     "vendor.bundle.be1bcc81648e46d5e900.js",
     "nuxt.bundle.5e6bc92fecd09c2c148a.js"
   ],
   "async": [
-    "0.nuxt.bundle.12ceebcab53efb974c7b.js",
-    "2.nuxt.bundle.2ff7f3df5a779be59674.js",
-    "3.nuxt.bundle.3a7a8b8e391f1b640d08.js",
-    "4.nuxt.bundle.3da8cd2fc71a879aa9e8.js",
+    "0.nuxt.bundle.d93d4c413464fe52fe1f.js",
+    "2.nuxt.bundle.e9f8c9197e546b89410a.js",
+    "3.nuxt.bundle.f71f9f5d4a1dc85d4926.js",
+    "4.nuxt.bundle.b5855faf13df1e1f7956.js",
     "5.nuxt.bundle.c518f830f6ae77695fe2.js",
-    "6.nuxt.bundle.a5f1f52c092b0a2cfa2b.js",
+    "6.nuxt.bundle.cc7fb8f31f3ae8e685fa.js",
     "7.nuxt.bundle.bcef4ff079e252424403.js",
-    "1.nuxt.bundle.ef197d9ba70b9785e1d5.js"
+    "1.nuxt.bundle.cf2c3135a704801bb3fa.js"
   ],
   "modules": {
     "10801580": [
