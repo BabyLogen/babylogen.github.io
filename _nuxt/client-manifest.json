@@ -1,17 +1,17 @@
 {
   "publicPath": "/_nuxt/",
   "all": [
-    "manifest.8a60fa5a53a89b810410.js",
-    "0.nuxt.bundle.522809bf1ac75dbbddc5.js",
-    "2.nuxt.bundle.94bda127b07f081ac17b.js",
-    "3.nuxt.bundle.96cd3f31e43508ca1332.js",
-    "4.nuxt.bundle.0b1b8f42dd026372196f.js",
-    "5.nuxt.bundle.c518f830f6ae77695fe2.js",
-    "6.nuxt.bundle.025cb259cca809507fc3.js",
-    "7.nuxt.bundle.bcef4ff079e252424403.js",
+    "manifest.142161f2979a1d130b06.js",
+    "0.nuxt.bundle.0c10714dfb369e1a18a6.js",
+    "2.nuxt.bundle.1348374a5f876e7d5944.js",
+    "3.nuxt.bundle.f6c89f5d1e3e1173f2f7.js",
+    "4.nuxt.bundle.4213ae5b4f279e742ab8.js",
+    "5.nuxt.bundle.3029ae3d26098603e78c.js",
+    "6.nuxt.bundle.25f0b2b4474fa2c6b390.js",
+    "7.nuxt.bundle.61d24ce9e9102e218517.js",
     "vendor.bundle.de834bbab10eb66eaa58.js",
     "nuxt.bundle.5e6bc92fecd09c2c148a.js",
-    "1.nuxt.bundle.281a4a03ad4568ffadfe.js",
+    "1.nuxt.bundle.b940ce339c8a78746faf.js",
     "icons/icon_16.9mgd2ZDMcQu.png",
     "icons/icon_120.9mgd2ZDMcQu.png",
     "icons/icon_144.9mgd2ZDMcQu.png",
@@ -23,19 +23,19 @@
     "index.html"
   ],
   "initial": [
-    "manifest.8a60fa5a53a89b810410.js",
+    "manifest.142161f2979a1d130b06.js",
     "vendor.bundle.de834bbab10eb66eaa58.js",
     "nuxt.bundle.5e6bc92fecd09c2c148a.js"
   ],
   "async": [
-    "0.nuxt.bundle.522809bf1ac75dbbddc5.js",
-    "2.nuxt.bundle.94bda127b07f081ac17b.js",
-    "3.nuxt.bundle.96cd3f31e43508ca1332.js",
-    "4.nuxt.bundle.0b1b8f42dd026372196f.js",
-    "5.nuxt.bundle.c518f830f6ae77695fe2.js",
-    "6.nuxt.bundle.025cb259cca809507fc3.js",
-    "7.nuxt.bundle.bcef4ff079e252424403.js",
-    "1.nuxt.bundle.281a4a03ad4568ffadfe.js"
+    "0.nuxt.bundle.0c10714dfb369e1a18a6.js",
+    "2.nuxt.bundle.1348374a5f876e7d5944.js",
+    "3.nuxt.bundle.f6c89f5d1e3e1173f2f7.js",
+    "4.nuxt.bundle.4213ae5b4f279e742ab8.js",
+    "5.nuxt.bundle.3029ae3d26098603e78c.js",
+    "6.nuxt.bundle.25f0b2b4474fa2c6b390.js",
+    "7.nuxt.bundle.61d24ce9e9102e218517.js",
+    "1.nuxt.bundle.b940ce339c8a78746faf.js"
   ],
   "modules": {
     "10801580": [
