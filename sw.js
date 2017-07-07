@@ -60,7 +60,7 @@ const fileManifest = [
   },
   {
     "url": "/_nuxt/client-manifest.json",
-    "revision": "781a5eb20900dc83927cac7d79de1d1f"
+    "revision": "502eee2ca2eaaf8114d4d1b8632868f2"
   },
   {
     "url": "/_nuxt/index.html",
@@ -71,16 +71,16 @@ const fileManifest = [
     "revision": "a8c86be0acce4fc1d76ef686ebc9ebf7"
   },
   {
-    "url": "/_nuxt/manifest.f81be178509ec1010803.js",
-    "revision": "e4addf3068979fa99f9d137e135a36ce"
+    "url": "/_nuxt/manifest.a36d53158b0be1a0ca26.js",
+    "revision": "bbfbe5fc929e97448835ee1839d32aa7"
   },
   {
-    "url": "/_nuxt/nuxt.bundle.4464e4c1c247f20e6f11.js",
-    "revision": "cafd84c8764baf762543e389b3f02c1b"
+    "url": "/_nuxt/nuxt.bundle.753a33dec17aa942ff25.js",
+    "revision": "b93eed58bced1220e5ac2ee558dbc9a4"
   },
   {
     "url": "/_nuxt/server-bundle.json",
-    "revision": "43ecfa8886ff59a639d3f4a8496d799a"
+    "revision": "b6798075457b086890928cf7d0c12bcd"
   },
   {
     "url": "/_nuxt/vendor.bundle.f15a33a83a9e1356c2a6.js",
