@@ -31,40 +31,40 @@ const fileManifest = [
     "revision": "15b0f2e50a8d2c0d97433bc4e6e16567"
   },
   {
-    "url": "/_nuxt/manifest.7374d4ed8a8e04da0073.js",
-    "revision": "036fcb6d0b9658e770c56c0ed01488b2"
+    "url": "/_nuxt/manifest.66938d0c7eb8a7530809.js",
+    "revision": "5219e325be82d58d7f387e9c299b1648"
   },
   {
-    "url": "/_nuxt/pages/_page/index.b5c57f765a2b1b570e36.js",
-    "revision": "a75a35fa1bc515983cb767105583939c"
+    "url": "/_nuxt/pages/_page/index.edafc5948d9dc4b102e3.js",
+    "revision": "1293557116c85888912c599a2a9736c4"
   },
   {
-    "url": "/_nuxt/pages/blog/_blog.3fdafc96f64dca9ba197.js",
-    "revision": "cc2e25850c45adcb7ab48bb750ffd6aa"
+    "url": "/_nuxt/pages/blog/_blog.473d633c59802b134059.js",
+    "revision": "8430a32d211d966d7ac7de2a71efcc36"
   },
   {
-    "url": "/_nuxt/pages/blog/index.c668f8f0cbc3b06f5a9e.js",
-    "revision": "8680c43a9733bf0ee9b985c516e9a7e4"
+    "url": "/_nuxt/pages/blog/index.62011dfe3be7931ffb5d.js",
+    "revision": "fbe1e8b89bb2251769f68398d2369cb3"
   },
   {
-    "url": "/_nuxt/pages/events/_event.2f520362f8aabfa21016.js",
-    "revision": "f4d587149bd37255a9573d4d89ed359f"
+    "url": "/_nuxt/pages/events/_event.c39d4f20ed851cd65bac.js",
+    "revision": "050e3b22ffcd7045dafa0be7e6bd59d3"
   },
   {
-    "url": "/_nuxt/pages/events/index.85b2197e0a1cf12c9b6b.js",
-    "revision": "b62e043ba380ab0d59a00088ba25e457"
+    "url": "/_nuxt/pages/events/index.46a6efd787151de0bf11.js",
+    "revision": "4ccf290ad3d259e7cde8bfd498b20d98"
   },
   {
-    "url": "/_nuxt/pages/index.f1c7113d691abc52af11.js",
-    "revision": "6222a8f36ca7ed155313a6d95a86bf42"
+    "url": "/_nuxt/pages/index.e2ddb0957d12f2f40550.js",
+    "revision": "cc7294960bcab1f8c71ac4b204ab518b"
   },
   {
-    "url": "/_nuxt/pages/vi-tilbyder/_service.5904d2b1ca9fd5d62e35.js",
-    "revision": "eb0807425fb6b2f193051a2d38b60612"
+    "url": "/_nuxt/pages/vi-tilbyder/_service.69726882f0246c581644.js",
+    "revision": "7fa23007243bdd0ec3ce5d1226edd8f3"
   },
   {
-    "url": "/_nuxt/pages/vi-tilbyder/index.2c653f8101a2ec3d89d3.js",
-    "revision": "afed1f3db2d70ba88756af6103c659fd"
+    "url": "/_nuxt/pages/vi-tilbyder/index.3f54bf9f58f728b19cbd.js",
+    "revision": "12bd509c607e4baa3b7b95548ba18051"
   }
 ];
 
